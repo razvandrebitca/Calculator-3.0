@@ -1,0 +1,48 @@
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\bin\Debug\Calculator 3.0.exe.config
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\bin\Debug\Calculator 3.0.exe
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\bin\Debug\Calculator 3.0.pdb
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Properties.Resources.resources
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.csproj.GenerateResource.Cache
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.exe
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.pdb
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.csprojResolveAssemblyReference.cache
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Calculator.resources
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\bin\Debug\aa\Calculator 3.0.resources.dll
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\bin\Debug\ro-RO\Calculator 3.0.resources.dll
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Calculator.aa.resources
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Calculator.ro-RO.resources
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\aa\Calculator 3.0.resources.dll
+C:\Users\elev\source\repos\Calculator 3.0\Calculator 3.0\obj\Debug\ro-RO\Calculator 3.0.resources.dll
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\bin\Debug\Calculator 3.0.exe.config
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\bin\Debug\Calculator 3.0.exe
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\bin\Debug\Calculator 3.0.pdb
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\bin\Debug\aa\Calculator 3.0.resources.dll
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\bin\Debug\ro-RO\Calculator 3.0.resources.dll
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Calculator.resources
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Properties.Resources.resources
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Calculator.aa.resources
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Calculator.ro-RO.resources
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.csproj.GenerateResource.Cache
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\aa\Calculator 3.0.resources.dll
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\ro-RO\Calculator 3.0.resources.dll
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.exe
+C:\Users\elev\Desktop\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.pdb
+C:\Projects\Calculator 3.0\Calculator 3.0\bin\Debug\Calculator 3.0.exe.config
+C:\Projects\Calculator 3.0\Calculator 3.0\bin\Debug\Calculator 3.0.exe
+C:\Projects\Calculator 3.0\Calculator 3.0\bin\Debug\Calculator 3.0.pdb
+C:\Projects\Calculator 3.0\Calculator 3.0\bin\Debug\aa\Calculator 3.0.resources.dll
+C:\Projects\Calculator 3.0\Calculator 3.0\bin\Debug\ro-RO\Calculator 3.0.resources.dll
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.csprojResolveAssemblyReference.cache
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Calculator.resources
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Properties.Resources.resources
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Calculator.aa.resources
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator_3._0.Calculator.ro-RO.resources
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.csproj.GenerateResource.Cache
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.csproj.CoreCompileInputs.cache
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\aa\Calculator 3.0.resources.dll
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\ro-RO\Calculator 3.0.resources.dll
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.exe
+C:\Projects\Calculator 3.0\Calculator 3.0\obj\Debug\Calculator 3.0.pdb
